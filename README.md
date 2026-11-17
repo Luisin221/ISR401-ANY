@@ -1,6 +1,6 @@
 # ISR401-ANY
 
-Repositorio del equipo ANY, Ingenieria de Requerimientos (ISR-401), 4.º nivel, paralelo A, UTEQ.
+Repositorio del equipo ANY, Ingeniería de Requerimientos (ISR-401), 4.º nivel, paralelo A, UTEQ.
 
 ## Integrantes
 
